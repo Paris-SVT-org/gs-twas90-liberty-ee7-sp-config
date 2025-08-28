@@ -1,5 +1,5 @@
 #
-# Configuration for environment
+# Configuration for environment to test server package with usr option version 2
 #
 version: 1.0
 app:
